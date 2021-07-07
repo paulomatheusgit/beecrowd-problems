@@ -4,7 +4,6 @@ import java.util.Scanner;
 import java.io.IOException;
 
 public class Uri1014 {
-    int oi;
     public static void main(String[] args) throws IOException{
         /*Criando a vairável de leitura dos dados*/
         Scanner input = new Scanner(System.in);
