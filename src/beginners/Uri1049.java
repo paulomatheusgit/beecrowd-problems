@@ -1,5 +1,13 @@
 package beginners;
 
+/*
+* ENUCIADO DO PROBLEMA:
+* Nesse problema, seu trabalho é ler três palavras em português.
+* Essas palavras definem um animal de acordo com a tabela abaixo,
+* da esquerda para a direita. Em seguida, imprima o animal escolhido
+* definido por essas três palavras.
+* */
+
 import java.util.Scanner;
 
 public class Uri1049 {
