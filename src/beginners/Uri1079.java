@@ -7,8 +7,6 @@ public class Uri1079 {
         int n;
         String[] line, values = new String[3];
         float[] testCases, floatValues = new float[values.length];
-        float r;
-        String l;      
         Scanner input = new Scanner(System.in);
 
         n = Integer.parseInt(input.nextLine());
