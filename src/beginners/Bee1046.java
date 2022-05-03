@@ -11,7 +11,7 @@ package beginners;
 import java.util.Scanner;
 import java.io.IOException;
 
-public class Uri1046 {
+public class Bee1046 {
     public static void main(String[] args) throws IOException{
         /*
         * Criando variável para leitura dos dois valores inteiros

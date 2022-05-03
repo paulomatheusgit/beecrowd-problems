@@ -10,7 +10,7 @@ package beginners;
 import java.util.Scanner;
 import java.io.IOException;
 
-public class Uri1041 {
+public class Bee1041 {
     public static void main(String[] args) throws IOException{
         /*
         * Criando a variável para leitura dos dados

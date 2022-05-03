@@ -16,7 +16,7 @@ package beginners;
 import java.util.Scanner;
 import java.io.IOException;
 
-public class Uri1045 {
+public class Bee1045 {
     public static void main(String[] args) throws IOException{
         /*
         * Criando variável para leitura dos dados

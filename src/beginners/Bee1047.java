@@ -10,7 +10,7 @@ Obs .: Com tempo máximo de jogo de 24 horas e mínimo de 1 minuto.
 import java.util.Scanner;
 import java.io.IOException;
 
-public class Uri1047 {
+public class Bee1047 {
     public static void main(String[] args) throws IOException{
         /*
         * Criando a variável para leitura dos dados

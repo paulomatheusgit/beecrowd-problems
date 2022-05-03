@@ -3,7 +3,7 @@ package beginners;
 import java.util.Scanner;
 import java.io.IOException;
 
-public class Uri1036 {
+public class Bee1036 {
     public static void main(String[] args) throws IOException{
         /*
         * Criando as variáveis para leitura dos valores

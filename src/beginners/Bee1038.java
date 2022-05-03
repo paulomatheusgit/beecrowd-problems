@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 import java.util.Scanner;
 import java.io.IOException;
 
-public class Uri1038 {
+public class Bee1038 {
     public static void main(String[] args) throws IOException{
         /*
         * Criando a variável para leitura dos valores

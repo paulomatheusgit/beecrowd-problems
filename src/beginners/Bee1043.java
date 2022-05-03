@@ -14,7 +14,7 @@ Perimetro = XX.X
 import java.util.Scanner;
 import java.io.IOException;
 
-public class Uri1043 {
+public class Bee1043 {
     public static void main(String[] args) throws IOException{
         /*
         * Criando a variável de leitura dos dados

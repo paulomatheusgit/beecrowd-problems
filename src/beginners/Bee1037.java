@@ -14,7 +14,7 @@ O símbolo '(' representa maior que. Por exemplo:
 import java.util.Scanner;
 import java.io.IOException;
 
-public class Uri1037 {
+public class Bee1037 {
     public static void main(String[] args) throws IOException{
         /*
         * Criando variável para leitura do valor

@@ -5,7 +5,7 @@ import java.math.RoundingMode;
 import java.util.Scanner;
 import java.io.IOException;
 
-public class Uri1040 {
+public class Bee1040 {
     public static void main(String[] args) throws IOException{
         /*
         * Criando a variável para leitura dos dados
