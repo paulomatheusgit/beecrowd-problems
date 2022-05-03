@@ -3,7 +3,7 @@ package beginners;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Uri1009 {
+public class Bee1009 {
     public static void main(String[] args) throws IOException{
         /*Criando uma variável para leitura de informações*/
         Scanner input = new Scanner(System.in);
