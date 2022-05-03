@@ -10,7 +10,7 @@ package beginners;/*
  */
 import java.util.Scanner;
 
-public class Uri1010 {
+public class Bee1010 {
     public static void main(String[] args) throws Exception{
 
         /*Criando a variável para leitura das informações*/
