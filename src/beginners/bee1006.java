@@ -2,7 +2,7 @@ package beginners;
 
 import java.util.Scanner;
 
-public class Uri1006 {
+public class bee1006 {
     public static void main(String[] args) {
         /*Criando uma variável para leitura de informações*/
         Scanner input = new Scanner(System.in);
