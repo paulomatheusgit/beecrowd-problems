@@ -7,7 +7,7 @@ package beginners;
 import java.util.Scanner;
 import java.io.IOException;
 
-public class Uri1019 {
+public class Bee1019 {
     public static void main(String[] args) throws IOException{
         //Criando a variável para leitura do dado
         Scanner input = new Scanner(System.in);

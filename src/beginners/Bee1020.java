@@ -11,7 +11,7 @@ Nota: apenas para facilitar o cálculo, considere o ano com 365 dias e 30 dias a
 import java.util.Scanner;
 import java.io.IOException;
 
-public class Uri1020 {
+public class Bee1020 {
     public static void main(String[] args) throws IOException{
         //Criando a variável para leitura do valor em dias
         Scanner input = new Scanner(System.in);
