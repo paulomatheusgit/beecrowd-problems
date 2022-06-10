@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Bee1117 {
     public static void main(String[] args) {
-        try (Scanner input = new Scanner(System.in)) {
+        Scanner input = new Scanner(System.in);
             float score;
             float a,b;
             float[] validScores = new float[2];
@@ -30,7 +30,6 @@ public class Bee1117 {
             for(int j = 0; j < informations.size(); j++){
                 System.out.println(informations.get(j));
             }
-        }
     }
     public static boolean isValid(float value){
         if(value < 0 || value > 10){
